@@ -1,0 +1,64 @@
+body {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.App.light-mode {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.App.dark-mode {
+  background-color: #121212; 
+  color: #f1f1f1; 
+}
+
+
+.App.dark-mode .navbar {
+  background-color: #333333;
+}
+
+.App.dark-mode .nav-links a {
+  color: #ffffff;
+}
+
+.App.dark-mode .site-name {
+  color: #ffffff;
+}
+
+.App.dark-mode .signin-btn,
+.App.dark-mode .signup-btn {
+  background-color: #555555;
+  color: #ffffff;
+}
+
+.App.dark-mode .signin-btn:hover,
+.App.dark-mode .signup-btn:hover {
+  background-color: #777777;
+}
+
+.App.dark-mode .hero-section {
+  background-color: #222;
+  color: #f1f1f1;
+}
+
+.App.dark-mode .company-section {
+  background-color: #333;
+  color: #f1f1f1;
+}
+
+.App.dark-mode .candidate-section {
+  background-color: #444;
+  color: #f1f1f1;
+}
+
+.App.dark-mode .carrier-advice-section {
+  background-color: #333;
+  color: #f1f1f1;
+}
+
+.App.dark-mode .footer {
+  background-color: #222;
+  color: #f1f1f1;
+}
+
